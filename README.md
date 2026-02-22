@@ -98,3 +98,33 @@ The project follows clean separation of concerns across:
 git clone https://github.com/abdennour-tr/Virtual-Cube-Engine.git
 cd Virtual-Cube-Engine
 ```
+### 2. Create a virtual environment
+```bash
+python -m venv venv
+```
+
+### Activate it:
+#### Windows
+```bash
+venv\Scripts\activate
+```
+
+#### Linux
+```bash
+source venv/bin/activate
+```
+
+### 3. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Run the application
+```bash
+python main.py
+```
+
+
+
+
+
