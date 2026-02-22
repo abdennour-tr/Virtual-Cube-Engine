@@ -119,6 +119,11 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+### if problem : 
+```bash
+pip install opencv-python mediapipe numpy
+```
+
 ### 4. Run the application
 ```bash
 python main.py
